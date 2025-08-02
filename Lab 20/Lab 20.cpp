@@ -1,3 +1,19 @@
+//Documentation Section 
+
+/*
+File Name : Lab 20 
+Author : Hamza Alsayed Almradny
+Version : V.1 
+Purpose : Absolute value of a number
+Date : 21/7/2025
+*/
+
+
+
+
+
+
+
 #include <iostream> 
 using namespace std;
 
